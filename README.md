@@ -1,6 +1,9 @@
 # Multi_Class-Multi_Label
 
-Summary of Multi-label & Multi-class Learning Algorithms.
+Summary of Multi-label & Multi-class Learning Algorithms
 
 Including ideas of building a model.
+
+English version(EN) and Chinese version(CN).
+
 
